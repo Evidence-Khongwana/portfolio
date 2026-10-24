@@ -6,9 +6,9 @@ A responsive, single-page portfolio designed for an informatics student and read
 
 Open `dist/index.html` and replace:
 
-- `Alex Mokoena` with your name
-- `alex@example.com` with your email
-- `yourusername` with your GitHub and LinkedIn usernames
+- `Evidence Khongwana` is the portfolio name
+- `your.email@example.com` with your email
+- The GitHub links point to `Evidence-Khongwana`; replace the LinkedIn placeholder with your profile
 - The sample education, project, and skill details with your own work
 
 ## Publish on GitHub Pages
